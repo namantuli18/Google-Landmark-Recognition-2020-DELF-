@@ -1,4 +1,4 @@
-# Google-Landmark-Recognition-2020-DELG-
+# Google-Landmark-Recognition-2020-DELF-
 
 ## Results
 | Public Score | Private Score | Public Rank | Private Rank |
