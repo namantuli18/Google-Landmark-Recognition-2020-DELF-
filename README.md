@@ -47,7 +47,7 @@ For extracting the features from testing images on a global and local level, we 
     HOMOGRAPHY_CONFIDENCE = 0.999
 ```
 
-## Challenges Encountered & Resolution
+## Challenges Encountered & Resolution Methodology
 1. The existence of 80K classes in the dataset makes it tough to train an image classification model, majorly because of limitations in compute and excessive training time. Thus, relying on a pre-trained architecture for feature-extraction.
 2. Since for each image in the test set, the feature similarity and re-ranking process is used, it makes it tough for the execution to be completed within 12 hours total. Used `pydegensac` for speeding up and optimising individual RANSAC iterations.
 3. With increased time complexity, it becomess overly difficult to ensemble results from different models and same model with tuned hyperparams(RANSAC parameters/Re-ranking). Due to this limitation, we tried finding the most optimized hyperparams using hyperparemeter tuning, in order to maximise the scoring metric and minimize the overall time of execution.
