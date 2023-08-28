@@ -1,4 +1,4 @@
-# Google-Landmark-Recognition-2020-DELF-
+# Google-Landmark-Recognition-2020-DELF - Top 8% solution
 
 ## Results
 | Public Score | Private Score | Public Rank | Private Rank |
