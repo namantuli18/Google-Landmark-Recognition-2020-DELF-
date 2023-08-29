@@ -55,4 +55,5 @@ For extracting the features from testing images on a global and local level, we 
 At last, we chose the submission that gave us the highest MAP score on the public dataset and CV score, and executed within the time constraints. 
 
 ## Submission Code
-The detailed python notebook for execution could be found at path `src/GLR-final.ipynb`
+The detailed python notebook for execution could be found at path `src/GLR-final.ipynb`  
+Link to Kaggle Kernel [Kaggle Link](https://www.kaggle.com/code/namantuli/delf-google-lankdmark-submission/notebook)
