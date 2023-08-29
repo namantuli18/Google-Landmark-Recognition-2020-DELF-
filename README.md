@@ -51,4 +51,4 @@ For extracting the features from testing images on a global and local level, we 
     - Same model with tuned hyperparams(RANSAC parameters/Re-ranking)
 
 ## Submission Code
-The detailed python notebook for execution could be found at path
+The detailed python notebook for execution could be found at path `src/GLR-final.ipynb`
