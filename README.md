@@ -3,7 +3,7 @@
 ## Results
 | Public Score | Private Score | Public Rank | Private Rank |
 |----------|----------|----------|----------|
-| 0.5147 | 0.4793 | 52  | 60
+| 0.5147 | 0.4793 | 52/736  | 60/736
 
 ## Problem Statement  
 The competitors in this challenge were asked to perform image classification on a dataset with roughly ~80K classes, with each class only having slightly adequate training samples.
